@@ -1,0 +1,22 @@
+
+//Read Midi
+
+
+******Time Signatrue :
+ 1.https://www.youtube.com/watch?v=mlZVQbFW0JA
+ 2.https://www.youtube.com/watch?v=qfdHrkqkaTw
+
+**  4/4 - four 1/4(quarter note) beats per measure
+    numerator = number of beats(quarter notes) per(between) bar(measure)
+    denominator = type(quarter note)of of note used per beat.
+
+     4 beats per measure -
+     a whole note takes 4 beats,while quarter note takes 1 beat.
+
+
+ *******
+
+
+https://github.com/audacity/audacity/blob/95a7fc6362729594565204b6db927b2e025d20c0/lib-src/portsmf/allegrosmfrd.cpp
+
+https://github.com/muse-sequencer/muse
