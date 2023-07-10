@@ -1,5 +1,5 @@
 
-*To provide Midi codec,Playback ,Sythesis and editing
+<h1>To provide Midi codec,Playback ,Sythesis and editing</h1>
 
 
 _________________________________________________________________________________________________________________________________________________________________
